@@ -1,0 +1,8 @@
+\splitdocs\special_notices\AFR\africa_special_notices.pdf,\terminals\africa,\splitdocs\supplements\AFR,AFR,AFR
+\splitdocs\special_notices\CANADA\canada_special_notice.pdf,\terminals\canada,\splitdocs\supplements\US IFR,CNA,CNA
+\splitdocs\special_notices\CSA\csa_special_notice.pdf,\terminals\caribbean_south_america,\splitdocs\supplements\CSA,CSA,CSA
+\splitdocs\special_notices\EEA\eea_special_notices.pdf,\terminals\eastern_europe_asia,\splitdocs\supplements\EEA,EEA,EEA
+\splitdocs\special_notices\ENAME\ename_special_notices.pdf,\terminals\europe_north_africa_middle_east,\splitdocs\supplements\ENAME,ENAME,ENAME
+\splitdocs\special_notices\PAA\paa_special_notice.pdf,\terminals\pacific_australasia_antarctica,\splitdocs\supplements\PAA,PAA,PAA
+\splitdocs\special_notices\US\us_special_notice.pdf,\terminals\united_states,\splitdocs\supplements\US IFR,US,US
+\splitdocs\special_notices\US\us_special_notice.pdf,\terminals\alaska,\splitdocs\supplements\US IFR,US,US (Alaska)
